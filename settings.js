@@ -6,15 +6,15 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID === undefined ? 'PRABATH-MD~rSxjTaBb#lasWIW0uLeWr-TY6fVGKm5ETRO7x0kZrYEVT5a2EQBI' : process.env.SESSION_ID,
+    SESSION_ID: process.env.SESSION_ID === undefined ? 'PRABATH-MD~ubQVlAab#GHN6FmBi03xNXWckSxLHWqczHub6ShvuukXQWYISAIw' : process.env.SESSION_ID,
     PREFIX: process.env.PREFIX || '.',
     FOOTER: process.env.FOOTER || "*© 𝐃𝐢𝐝𝐮𝐥𝐚 𝐌𝐃 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭 - 𝟐𝟎𝟐𝟓*",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/50Qd4Kws/IMG-20250312-WA0022.jpg",
 HEART_REACT: process.env.HEART_REACT || 'false',
 AUTO_REACT: process.env.AUTO_REACT || 'false',
 WELCOME: process.env.WELCOME || 'false',
-    SUDO: process.env.SUDO === undefined ? '94741671668,94771820962' : process.env.SUDO,
- AUTO_READ_STATUS: process.env.AUTO_READ_STATUS === undefined ? "true" : process.env.AUTO_READ_STATUS,
+    SUDO: process.env.SUDO === undefined ? '94779510013,94771820962' : process.env.SUDO,
+ AUTO_READ_STATUS: process.env.AUTO_READ_STATUS === undefined ? "false" : process.env.AUTO_READ_STATUS,
     MODE: process.env.MODE === undefined ? "public" : process.env.MODE,
     ANTI_BAD: process.env.ANTI_BAD === undefined ? "false" : process.env.ANTI_BAD,
     ANTI_LINK: process.env.ANTI_LINK === undefined ? "false" : process.env.ANTI_LINK,
